@@ -2,7 +2,7 @@ public class Demo {
     public static void main(String args[])
     {
 System.out.println("Practise");
-
+//data type
        byte b=23; //1 byte maximum length 127
        char ch='a'; // 2 byte
        boolean var=true;
